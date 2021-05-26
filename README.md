@@ -4,15 +4,19 @@
 #### [Linux](https://github.com/samruddhimanjrekar/missingskill-learning/blob/04777ec6d4f76032032824cf24b824edea13a116/linux.md)
 * History of Linux
 * Linux commands 
-* File system and Directory structure in Linux 
+* File system 
 
 #### [Git](https://github.com/samruddhimanjrekar/missingskill-learning/blob/04777ec6d4f76032032824cf24b824edea13a116/git.md)
-* Git Features
+* Git History
 * Git commands
-* Distributed version control system 
+
 
 #### [Basic building blocks and web application development](https://github.com/samruddhimanjrekar/missingskill-learning/blob/04777ec6d4f76032032824cf24b824edea13a116/building_web_block.md)
-* IP Address 
+* Types of Programming language
+* Web Framework
+* Database
+* Platform
+* IP Address and types 
 * Port 
 * Web Port (HTTP and HTTPS)
 * Domain
@@ -20,7 +24,6 @@
 * Web Server 
 * HTTP verbs
 * HTTP Headers
-* HTTP status codes
 * Software Licence
 * Database 
 * Cloud Providers 
@@ -33,19 +36,22 @@
 * JavaScript Variables
 * JavaScript Data Types
 * JavaScript Operator
-* Operations on Primitive and Non-Primitive 
-* Functional Scope
-* Lexical Scope
+* Operations on Primitive and Non-Primitive(Explicit type casting) 
+* Logical AND & Logigical OR
+* Scope
 * Call by Value and Call by Reference 
 * Function 
 * Function declaration and Function assignment
+* Ananomyus function
 * Higher order function 
 * Pure function
+* Inline function
+* Arrow function
 * Immediately Invoked Function Expression (IIFE)
-* Closure
-* Arrow Function
-* Built in contractor / Prototype
-* Built in methods for Array,Object and String
+* Constructor
+* Prototype
+* JSON 
+* Destructing
 
 
 
