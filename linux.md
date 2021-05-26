@@ -1,2 +1,2 @@
 **LINUX:**
-![LINUX images](https://github.com/samruddhimanjrekar/Images.git/)
+![LINUX images](https://github.com/samruddhimanjrekar/Images.git)
