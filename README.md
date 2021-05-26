@@ -42,7 +42,7 @@
 * Call by Value and Call by Reference 
 * Function 
 * Function declaration and Function assignment
-* Ananomyus function
+* Anonymous function
 * Higher order function 
 * Pure function
 * Inline function
@@ -51,7 +51,7 @@
 * Constructor
 * Prototype
 * JSON 
-* Destructing
+* Destructuring
 
 
 
